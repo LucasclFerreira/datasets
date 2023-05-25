@@ -20,6 +20,11 @@ class RegressaoLogistica:
             self.pesos -= self.taxa * derivada_pesos
             self.vies -= self.taxa * derivada_vies
 
+    def prever(self, X):
+        modelo_linear = np.dot(X, self.pesos) + self.vies
+        y_prev = self._sigmoid(modelo_linear)
+        y_prev_classe = [1 if prev > 0.5 else 0 for prev in y_prev]
+        return y_prev_classe
 
     def _sigmoid(self, x):
         return 1 / (1 + np.exp(-x))
