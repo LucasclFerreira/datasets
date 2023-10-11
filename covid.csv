@@ -1,0 +1,195 @@
+nome,teste,nascimento,sexo,infeccao,data_infeccao,sintomas,metodo_diagnostico,numero_doses,imunizante,data_vacinacao
+Pessoa 1,IgG(-) IgM(-),15/9/1997,Masculino,NÃO,,,,NÃO,-,-
+Pessoa 2,IgG(+) IgM(+),4/11/2000,Feminino,NÃO,,,,"SIM, 1 dose",Astrazeneca,18/7/2021
+Pessoa 3,IgG(+) IgM(-),7/3/2002,Feminino,NÃO,,,,"SIM, 1 dose",Astrazeneca,31/7/2021
+Pessoa 4,IgG(-) IgM(-),14/9/2000,Feminino,SIM,1/5/2022,"Tosse, Ageusia, Anosmia, Dor no corpo, Cansaço excessivo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),NÃO,-,-
+Pessoa 5,IgG(-) IgM(-),23/1/1997,Feminino,NÃO,,,,"SIM, 2 doses",Coronavac,1/4/2021
+Pessoa 6,IgG(-) IgM(-),20/12/1995,Feminino,NÃO,,,,"SIM, 1 dose",Astrazeneca,1/5/2021
+Pessoa 7,IgG(-) IgM(-),24/10/1998,Feminino,NÃO,,,,"SIM, 1 dose",Astrazeneca,1/7/2021
+Pessoa 8,IgG(+) IgM(-),18/10/1999,Feminino,SIM,1/5/2021,"Tosse, Cansaço excessivo",TESTE RAPIDO PARA PESQUISA DE AG,"SIM, 1 dose",Janssen,1/6/2021
+Pessoa 9,IgG(+) IgM(-),6/7/1999,Feminino,SIM,1/5/2021,"Febre, Tosse, Dor de garganta, Cansaço excessivo, Coriza",RT-PCR (TESTE DO SWAB),NÃO,-,-
+Pessoa 10,IgG(+) IgM(-),25/1/1999,Masculino,SIM,1/7/2021,"Ageusia, Anosmia","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE)",NÃO,-,-
+Pessoa 11,IgG(-) IgM(-),30/4/1999,Feminino,NÃO,,,,NÃO,-,-
+Pessoa 12,IgG(-) IgM(-),31/8/1998,Feminino,NÃO,,,,"SIM, 1 dose",Pfizer,16/6/2021
+Pessoa 13,IgG(-) IgM(-),1/5/2000,Feminino,NÃO,,,,"SIM, 1 dose",Pfizer,30/6/2021
+Pessoa 14,IgG(+) IgM(-),8/11/2002,Feminino,SIM,1/9/2022,"Tosse, Dor no corpo",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/9/2021
+Pessoa 15,IgG(+) IgM(-),16/5/2002,Masculino,SIM,1/5/2021,"Febre, Calafrios","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE)","SIM, 3 doses",Pfizer,1/11/2021
+Pessoa 16,IgG(+) IgM(-),12/1/2002,Feminino,SIM,1/8/2022,"Febre, Tosse, Diarreia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dor ou pressão no peito",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/10/2021
+Pessoa 17,IgG(+) IgM(-),13/5/2004,Feminino,SIM,1/6/2020,"Tosse, Anosmia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 3 doses",Pfizer,1/11/2022
+Pessoa 18,IgG(+) IgM(-),9/10/2002,Feminino,SIM,1/5/2020,"Febre, Tosse, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Coronavac,1/9/2022
+Pessoa 19,IgG(+) IgM(-),25/8/2000,Feminino,SIM,1/8/2022,"Febre, Tosse, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Erupções cutâneas",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Astrazeneca,1/3/2021
+Pessoa 20,IgG(+) IgM(-),11/12/1979,Feminino,SIM,1/10/2021,"Febre, Tosse, Ageusia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar, Dor ou pressão no peito, Sonolência, cianose","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 4 doses",Coronavac astrazenica janssen,1/12/2022
+Pessoa 21,IgG(+) IgM(-),29/3/2001,Feminino,SIM,1/10/2021,Dor no corpo,RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Coronavac,1/4/2022
+Pessoa 22,IgG(+) IgM(-),27/8/2001,Feminino,SIM,1/8/2021,"Febre, Tosse, Calafrios, Dor de garganta, Dor no corpo",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Astrazeneca,1/9/2021
+Pessoa 23,IgG(+) IgM(-),9/6/2004,Feminino,SIM,1/9/2021,"Ageusia, Anosmia, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar, Coriza","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE)","SIM, 2 doses",Pfizer,1/11/2021
+Pessoa 24,IgG(+) IgM(-),22/2/2004,Masculino,NÃO,,,,"SIM, 2 doses",Pfizer,1/10/2021
+Pessoa 25,IgG(+) IgM(-),6/9/1997,Masculino,NÃO,,,,"SIM, 3 doses",Pfizer,1/11/2021
+Pessoa 26,IgG(+) IgM(-),10/4/1998,Masculino,SIM,1/5/2021,"Tosse, Dor no corpo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Coronavac,1/8/2021
+Pessoa 27,IgG(+) IgM(-),22/2/2000,Feminino,NÃO,,,,"SIM, 3 doses",Astrazeneca,1/5/2021
+Pessoa 28,IgG(+) IgM(-),2/6/2000,Feminino,NÃO,,,,"SIM, 1 dose",Janssen,1/6/2021
+Pessoa 29,IgG(+) IgM(-),11/2/1999,Feminino,SIM,1/9/2020,"Febre, Tosse, Diarreia, Vomito, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Coronavac,1/10/2021
+Pessoa 30,IgG(+) IgM(-),11/12/2001,Feminino,SIM,1/5/2020,"Febre, Tosse, Ageusia, Anosmia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dor ou pressão no peito","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 3 doses",Coronavac,1/9/2022
+Pessoa 31,IgG(+) IgM(-),1/12/1993,Feminino,SIM,1/7/2021,"Tosse, Coriza","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 3 doses",Pfizer,1/10/2022
+Pessoa 32,IgG(+) IgM(-),20/10/1998,Feminino,NÃO,,,,"SIM, 4 doses","Pfizer, Astrazeneca e Janssen",10/11/2022
+Pessoa 33,IgG(+) IgM(-),02/07/81,Masculino,SIM,1/5/2021,"Anosmia, Prostração",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/8/2022
+Pessoa 34,IgG(+) IgM(-),20/9/2001,Feminino,SIM,1/9/2021,"Febre, Tosse, Diarreia, Ageusia, Vomito, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar, Dor ou pressão no peito",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/9/2022
+Pessoa 35,IgG(+) IgM(-),14/7/2000,Masculino,SIM,1/11/2021,Assintomático,"RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 2 doses",Astrazeneca,1/3/2022
+Pessoa 36,IgG(+) IgM(-),28/10/1999,Feminino,SIM,1/12/2021,"Febre, Tosse, Anosmia, Dor de garganta, Cansaço excessivo, Dificuldade de respirar",TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE),"SIM, 3 doses",Astrazeneca,1/11/2022
+Pessoa 37,IgG(+) IgM(-),4/12/1998,Masculino,SIM,1/5/2022,"Febre, Tosse, Anosmia, Cansaço excessivo","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 2 doses",Pfizer,1/7/2022
+Pessoa 38,IgG(+) IgM(-),12/9/2001,Feminino,NÃO,,,,"SIM, 3 doses",Pfizer,1/4/2022
+Pessoa 39,IgG(+) IgM(-),4/10/1999,Feminino,SIM,1/12/2021,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/6/2022
+Pessoa 40,IgG(+) IgM(-),5/2/1999,Masculino,NÃO,,,,"SIM, 3 doses",Pfizer,1/10/2022
+Pessoa 41,IgG(+) IgM(-),12/3/2000,Masculino,NÃO,,,,"SIM, 2 doses",Pfizer,1/6/2022
+Pessoa 42,IgG(+) IgM(-),28/1/1999,Masculino,SIM,1/5/2021,"Febre, Calafrios, Dor no corpo, Cansaço excessivo","TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE)","SIM, 2 doses",Pfizer,1/5/2022
+Pessoa 43,IgG(+) IgM(-),4/4/1998,Feminino,SIM,1/9/2020,"Tosse, Ageusia, Anosmia, Dor de garganta, Dor no corpo, Dor Retroauricular",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Oxford- Fiocruz,3/8/2021
+Pessoa 44,IgG(+) IgM(-),8/10/2001,Feminino,SIM,1/7/2020,"Tosse, Dor de garganta, Dor no corpo, Cansaço excessivo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/1/2023
+Pessoa 45,IgG(+) IgM(-),13/4/2002,Feminino,SIM,1/12/2021,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Astrazeneca,1/7/2022
+Pessoa 46,IgG(+) IgM(-),3/5/2001,Feminino,SIM,1/4/2021,"Febre, Tosse",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Astrazeneca,24/1/2022
+Pessoa 47,IgG(+) IgM(-),1/3/2000,Feminino,NÃO,,,,"SIM, 3 doses",Astrazeneca,1/8/2022
+Pessoa 48,IgG(+) IgM(-),26/6/2002,Feminino,SIM,1/9/2021,"Febre, Cansaço excessivo, Cefaleia.","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 3 doses",E Pfizer na 3,1/1/2022
+Pessoa 49,IgG(-) IgM(-),26/8/2002,Feminino,SIM,1/9/2021,"Dor no corpo, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Pfizer,14/1/2022
+Pessoa 50,IgG(+) IgM(-),28/12/1997,Feminino,SIM,1/7/2021,"Febre, Tosse, Dor de garganta, Cansaço excessivo, Dor ou pressão no peito, cefaleia",RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Janssen,6/10/2022
+Pessoa 51,IgG(+) IgM(-),6/4/1995,Masculino,NÃO,,,,"SIM, 3 doses",Pfizer,1/7/2022
+Pessoa 52,IgG(+) IgM(-),6/5/1999,Masculino,SIM,1/11/2020,Assintomático,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/9/2021
+Pessoa 53,IgG(+) IgM(-),21/11/1998,Feminino,SIM,1/8/2020,"Tosse, Dor de garganta, Cansaço excessivo, Dificuldade de respirar, Dor ou pressão no peito, Dor na região da face, como de sinusite",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Coronavac,1/12/2022
+Pessoa 54,IgG(+) IgM(-),8/3/1997,Feminino,NÃO,,,,"SIM, 4 doses",Pfizer + bivalente na ultima dose,28/3/2023
+Pessoa 55,IgG(+) IgM(-),3/9/1998,Feminino,NÃO,,,,"SIM, 4 doses",Pfizer,9/9/2022
+Pessoa 56,IgG(+) IgM(-),14/3/1997,Feminino,SIM,1/7/2021,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Pfizer,1/4/2023
+Pessoa 57,IgG(+) IgM(-),19/8/1995,Masculino,NÃO,,,,"SIM, 4 doses",Pfizer,14/7/2023
+Pessoa 58,IgG(+) IgM(-),26/11/1997,Masculino,SIM,1/5/2020,"Febre, Dor no corpo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 4 doses",Coronavac,1/2/2023
+Pessoa 59,IgG(+) IgM(-),22/9/1999,Masculino,SIM,1/6/2020,"Anosmia, Dor no corpo","RT-PCR (TESTE DO SWAB), Não tive COVID-19","SIM, 2 doses",Coronavac,1/3/2022
+Pessoa 60,IgG(+) IgM(-),29/9/2003,Masculino,SIM,1/12/2020,"Febre, Diarreia, Anosmia","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 3 doses",Astrazeneca,1/12/2022
+Pessoa 61,IgG(+) IgM(-),28/5/1997,Masculino,NÃO,.,,,"SIM, 3 doses",Pfizer,1/11/2021
+Pessoa 62,IgG(+) IgM(-),2/9/1999,Feminino,NÃO,.,,,"SIM, 3 doses",Astrazeneca,1/2/2023
+Pessoa 63,IgG(+) IgM(-),26/4/2002,Masculino,SIM,1/1/2022,Assintomático,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Astrazeneca,1/1/2023
+Pessoa 64,IgG(+) IgM(-),7/9/2001,Masculino,SIM,1/12/2020,Tosse,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Coronavac,1/3/2022
+Pessoa 65,IgG(+) IgM(-),21/10/2002,Masculino,NÃO,.,,,"SIM, 3 doses",Pfizer,1/5/2022
+Pessoa 66,IgG(+) IgM(-),27/1/1989,Feminino,SIM,1/1/2022,"Tosse, Dor de garganta",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/6/2022
+Pessoa 67,IgG(+) IgM(-),19/11/1987,Feminino,SIM,1/8/2022,"Tosse, Anosmia, Dor de garganta, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Pfizer,1/9/2022
+Pessoa 68,IgG(+) IgM(-),19/9/1975,Feminino,NÃO,.,,,"SIM, 3 doses",Pfizer,1/3/2023
+Pessoa 69,IgG(+) IgM(-),22/2/1996,Feminino,SIM,1/6/2021,"Tosse, Dor no corpo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Astrazeneca,1/9/2021
+Pessoa 70,IgG(+) IgM(-),3/9/1998,Masculino,NÃO,.,,,"SIM, 4 doses",Astrazeneca,1/1/2023
+Pessoa 71,IgG(+) IgM(-),27/5/2001,Feminino,NÃO,.,,,"SIM, 4 doses",Astrazeneca,1/2/2023
+Pessoa 72,IgG(+) IgM(-),26/12/1990,Feminino,SIM,1/9/2021,Assintomático,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Pfizer,4/3/2022
+Pessoa 73,IgG(+) IgM(-),8/9/1988,Feminino,SIM,1/2/2022,"Febre, Tosse, Dor de garganta, Dor no corpo, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Astrazeneca,1/5/2023
+Pessoa 74,IgG(+) IgM(-),20/8/1998,Feminino,NÃO,.,,,"SIM, 3 doses",Astrazeneca,1/10/2022
+Pessoa 75,IgG(+) IgM(-),1/3/1993,Masculino,SIM,1/1/2022,"Anosmia, Calafrios, Dor no corpo",RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Astrazeneca,1/11/2022
+Pessoa 76,IgG(+) IgM(-),25/3/1992,Masculino,SIM,1/2/2022,"Dor no corpo, Cansaço excessivo, Dor de Estômago",RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Pfizer,1/3/2023
+Pessoa 77,IgG(+) IgM(-),18/5/1999,Feminino,NÃO,.,,,"SIM, 4 doses",Astrazeneca,1/4/2023
+Pessoa 78,IgG(+) IgM(-),9/10/1997,Feminino,NÃO,.,,,"SIM, 3 doses",Astrazeneca,1/1/2023
+Pessoa 79,IgG(+) IgM(-),17/1/2000,Feminino,NÃO,.,,,"SIM, 3 doses",Astrazeneca,1/12/2022
+Pessoa 80,IgG(+) IgM(-),6/3/1998,Feminino,NÃO,.,,,"SIM, 3 doses",Astrazeneca,1/7/2022
+Pessoa 81,IgG(+) IgM(-),6/3/1994,Feminino,SIM,1/3/2022,"Febre, Tosse, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Astrazeneca,1/2/2022
+Pessoa 82,IgG(+) IgM(-),24/9/1997,Feminino,SIM,1/1/2022,"Tosse, Diarreia, Dor no corpo, Cansaço excessivo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Astrazeneca,1/5/2022
+Pessoa 83,IgG(+) IgM(-),17/2/1998,Feminino,SIM,1/6/2022,"Tosse, Diarreia, Dor de garganta, Dor no corpo, Cansaço excessivo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Astrazeneca,1/4/2022
+Pessoa 84,IgG(+) IgM(-),2/6/2000,Feminino,SIM,1/6/2021,"Febre, Tosse, Ageusia, Anosmia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Coronavac,1/2/2021
+Pessoa 85,IgG(+) IgM(-),1/9/2000,Feminino,SIM,1/7/2022,"Tosse, Dor de garganta, Dor no corpo",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Astrazeneca,1/9/2021
+Pessoa 86,IgG(+) IgM(-),29/02/1999,Feminino,SIM,1/1/2022,"Tosse, Dor ou pressão no peito","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 2 doses",Astrazeneca,1/12/2021
+Pessoa 87,IgG(+) IgM(-),23/10/1998,Masculino,SIM,1/12/2022,"Febre, Tosse, Diarreia, Cansaço excessivo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 4 doses",Astrazeneca,1/3/2023
+Pessoa 88,IgG(+) IgM(-),11/9/2023,Feminino,SIM,1/12/2021,"Febre, Tosse, Diarreia, Ageusia, Anosmia, Vomito, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar, Dor ou pressão no peito","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE)","SIM, 4 doses",Astrazeneca,1/5/2022
+Pessoa 89,IgG(+) IgM(-),6/10/1997,Feminino,SIM,1/12/2021,"Febre, Tosse, Calafrios, Dor no corpo, Cansaço excessivo, cefaléia","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 4 doses",Astrazeneca,1/8/2022
+Pessoa 90,IgG(+) IgM(-),19/7/2000,Feminino,NÃO,.,,,"SIM, 3 doses",Astrazeneca,1/9/2022
+Pessoa 91,IgG(+) IgM(-),18/8/1994,Feminino,SIM,1/5/2021,"Febre, Tosse, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 4 doses",Astrazeneca,1/5/2023
+Pessoa 92,IgG(+) IgM(-),21/6/2000,Feminino,SIM,1/6/2022,"Ageusia, Anosmia",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Coronavac,1/6/2022
+Pessoa 93,IgG(+) IgM(-),20/11/1996,Feminino,NÃO,.,,,"SIM, 3 doses",Coronavac,1/7/2021
+Pessoa 94,IgG(+) IgM(-),28/1/1997,Feminino,SIM,1/1/2021,"Febre, Dor no corpo, exantema",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Astrazeneca,1/4/2022
+Pessoa 95,IgG(+) IgM(-),31/12/1997,Feminino,SIM,1/2/2022,"Febre, Tosse, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Janssen,1/4/2023
+Pessoa 96,IgG(+) IgM(-),21/7/2002,Feminino,NÃO,.,,,"SIM, 4 doses",Coronavac,1/6/2021
+Pessoa 97,IgG(+) IgM(-),10/9/2001,Masculino,NÃO,.,,,"SIM, 3 doses",Coronavac,1/5/2022
+Pessoa 98,IgG(+) IgM(-),17/10/2002,Masculino,NÃO,.,,,"SIM, 2 doses",Pfizer,1/8/2022
+Pessoa 99,IgG(+) IgM(-),27/8/1996,Feminino,SIM,1/7/2021,"Febre, Tosse, Vomito, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/9/2022
+Pessoa 100,IgG(+) IgM(-),6/3/2004,Feminino,SIM,6/2/2023,Assintomático,"RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 2 doses",Pfizer,1/3/2022
+Pessoa 101,IgG(+) IgM(-),20/11/2001,Masculino,SIM,1/12/2021,"Febre, Dor de garganta",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/6/2021
+Pessoa 102,IgG(+) IgM(-),12/6/2002,Masculino,SIM,1/1/2022,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/11/2021
+Pessoa 103,IgG(+) IgM(-),18/2/2003,Masculino,NÃO,.,,,"SIM, 2 doses",Janssen,1/9/2021
+Pessoa 104,IgG(+) IgM(-),11071997,Feminino,NÃO,,,,"SIM, 4 doses",Astrazeneca tambem,12/4/2023
+Pessoa 105,IgG(+) IgM(-),18/8/1997,Masculino,SIM,1/1/2021,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Pfizer,1/2/2023
+Pessoa 106,IgG(+) IgM(-),14/12/1995,Feminino,NÃO,,,,"SIM, 2 doses",Pfizer,1/7/2021
+Pessoa 107,IgG(+) IgM(-),2/2/1999,Feminino,NÃO,,,,"SIM, 3 doses",Astrazeneca,1/12/2021
+Pessoa 108,IgG(+) IgM(-),8/4/1997,Feminino,NÃO,,,,"SIM, 4 doses",Astrazeneca,1/6/2023
+Pessoa 109,IgG(+) IgM(-),6/2/2001,Feminino,SIM,1/5/2022,"Febre, Tosse, Diarreia, Ageusia, Anosmia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/12/2022
+Pessoa 110,IgG(+) IgM(-),4/11/1994,Feminino,SIM,1/1/2022,"Tosse, Dor de garganta",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 4 doses",Pfizer,1/5/2023
+Pessoa 111,IgG(+) IgM(-),22/3/2000,Masculino,NÃO,,,,"SIM, 3 doses",Astrazeneca,1/1/2023
+Pessoa 112,IgG(+) IgM(-),23/11/2002,Masculino,NÃO,,,,"SIM, 2 doses",Coronavac,1/9/2022
+Pessoa 113,IgG(+) IgM(-),30/7/1998,Masculino,SIM,1/8/2021,"Febre, Tosse, Ageusia, Anosmia, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Coronavac,1/3/2023
+Pessoa 114,IgG(+) IgM(-),1/8/1998,Feminino,SIM,1/9/2021,"Febre, Tosse, Ageusia, Anosmia, Dor no corpo, Cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Coronavac,1/5/2023
+Pessoa 115,IgG(+) IgM(-),21/10/2003,Masculino,NÃO,,,,"SIM, 2 doses",Pfizer,1/5/2022
+Pessoa 116,IgG(+) IgM(-),23/5/2003,Feminino,SIM,1/9/2021,"Febre, Tosse, Ageusia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 3 doses",Coronavac,1/12/2022
+Pessoa 117,IgG(+) IgM(-),9/6/2003,Feminino,NÃO,,,,"SIM, 2 doses",Pfizer,1/12/2021
+Pessoa 118,IgG(+) IgM(-),27/12/1999,Masculino,SIM,1/1/2022,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Pfizer,1/5/2023
+Pessoa 119,IgG(+) IgM(-),31/7/1992,Masculino,SIM,1/2/2022,"Febre, Calafrios, Dor no corpo",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Astrazeneca,1/11/2023
+Pessoa 120,IgG(+) IgM(-),13/3/1997,Feminino,SIM,1/9/2021,"Febre, Tosse, Ageusia, Anosmia, Dor de garganta, Dor no corpo, Dificuldade de respirar",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 4 doses",Pfizer,23/7/2023
+Pessoa 121,IgG(+) IgM(-),20/2/1999,Feminino,NÃO,,,,"SIM, 4 doses",Pfizer,1/1/2023
+Pessoa 122,IgG(+) IgM(-),6/1/1997,Masculino,SIM,1/5/2021,"Tosse, Dor de garganta",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/10/2022
+Pessoa 123,IgG(+) IgM(-),24/4/2003,Feminino,NÃO,,,,"SIM, 3 doses",Coronavac,1/9/2022
+Pessoa 124,IgG(+) IgM(-),28/7/2003,Feminino,SIM,1/7/2021,Assintomático,"RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 3 doses",Pfizer,1/7/2022
+Pessoa 125,IgG(+) IgM(-),4/10/1994,Masculino,SIM,1/6/2021,"Febre, Calafrios, Dor no corpo, Dificuldade de respirar",TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE),"SIM, 4 doses",Astrazeneca,1/3/2023
+Pessoa 126,IgG(+) IgM(-),31/7/2002,Feminino,SIM,1/9/2020,"Dor de garganta, Dor no corpo, Cansaço excessivo","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 4 doses",Coronavac,1/2/2023
+Pessoa 127,IgG(+) IgM(-),21/6/2002,Feminino,SIM,1/8/2022,Assintomático,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 4 doses",Coronavac,1/6/2023
+Pessoa 128,IgG(-) IgM(-),6/10/1994,Masculino,SIM,1/7/2020,"Febre, Tosse, Diarreia, Anosmia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AC anti-SARS-COV-2 (SANGUE)",NÃO,-,-
+Pessoa 129,IgG(+) IgM(-),6/11/1997,Feminino,SIM,1/1/2021,"Tosse, Anosmia, Calafrios, Dor de garganta, Dor no corpo, Cansaço excessivo, Dificuldade de respirar","RT-PCR (TESTE DO SWAB), TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB)","SIM, 4 doses",Pfizer,1/11/2022
+Pessoa 130,IgG(+) IgM(-),11/11/1998,Feminino,NÃO,,,,"SIM, 4 doses",Astrazeneca,1/4/2023
+Pessoa 131,IgG(+) IgM(-),3/7/2001,Feminino,NÃO,,,,"SIM, 3 doses","Jansen, Pfizer, Astrazenica",1/6/2022
+Pessoa 132,IgG(+) IgM(-),26/6/2002,Feminino,SIM,1/2/2021,Cefaleia,RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Astrazenica e Pfizer,1/8/2022
+Pessoa 133,IgG(+) IgM(-),7/10/2001,Feminino,SIM,1/2/2022,"Febre, tosse, dor de garganta",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 1 dose",Pfizer,1/11/2021
+Pessoa 134,IgG(+) IgM(-),19/2/1994,Masculino,SIM,1/8/2021,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Coronavac e Pfizer,1/5/2023
+Pessoa 135,IgG(+) IgM(-),13/8/1999,Masculino,NÃO,,,,"SIM, 4 doses",Astrazenica e Pfizer,1/4/2023
+Pessoa 136,IgG(+) IgM(-),13/6/2003,Masculino,NÃO,,,,"SIM, 3 doses",Astrazenica,1/3/2023
+Pessoa 137,IgG(+) IgM(-),27/9/1999,Masculino,NÃO,,,,"SIM, 5 doses",Coronavac e Pfizer,1/8/2023
+Pessoa 138,IgG(+) IgM(-),26/1/2002,Feminino,SIM,1/3/2022,Febre e Cansaço,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/10/2021
+Pessoa 139,IgG(+) IgM(-),29/4/2002,Feminino,SIM,1/2/2022,"Tosse, dor de garganta e dor no corpo",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/12/2021
+Pessoa 140,IgG(+) IgM(-),21/9/1998,Feminino,SIM,1/6/2020,"Tosse, ageusia, anosmia, dor no corpo",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Pfizer e Janssen,1/8/2022
+Pessoa 141,IgG(+) IgM(-),14/11/2002,Feminino,SIM,1/1/2022,"Tosse, diarreia, dor no corpo, cansaço, perda de apetite",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/7/2021
+Pessoa 142,IgG(+) IgM(-),1/6/2002,Masculino,NÃO,,,,"SIM, 2 doses",Pfizer,1/5/2021
+Pessoa 143,IgG(+) IgM(-),16/11/2000,Masculino,NÃO,,,,"SIM, 2 doses",Astrazenica e Pfizer,1/4/2023
+Pessoa 144,IgG(+) IgM(-),26/12/2001,Feminino,SIM,1/1/2022,"Tosse, dispneia, cansaço, calafrios",RT-PCR (TESTE DO SWAB),"SIM, 4 doses","Astrazenica, Coronavac, Pfizer",1/3/2023
+Pessoa 145,IgG(+) IgM(-),8/3/2000,Feminino,SIM,1/4/2021,Cansaço e dispneia,RT-PCR (TESTE DO SWAB),"SIM, 4 doses",Coronavac,1/6/2023
+Pessoa 146,IgG(+) IgM(-),5/3/2003,Feminino,NÃO,,,,"SIM, 4 doses",Pfizer,1/5/2022
+Pessoa 147,IgG(+) IgM(-),7/11/1997,Masculino,NÃO,,,,"SIM, 3 doses",Pfizer,1/9/2022
+Pessoa 148,IgG(+) IgM(-),21/12/2000,Feminino,NÃO,,,,"SIM, 3 doses",Pfizer e Janssen,1/6/2022
+Pessoa 149,IgG(+) IgM(-),28/9/2002,Feminino,NÃO,,,,"SIM, 3 doses",Coronavac e Pfizer,1/7/2022
+Pessoa 150,IgG(+) IgM(-),21/1/1997,Feminino,NÃO,,,,"SIM, 2 doses",Astrazenica e Pfizer,1/9/2021
+Pessoa 151,IgG(+) IgM(-),19/12/2003,Feminino,NÃO,,,,"SIM, 3 doses",Pfizer,1/8/2022
+Pessoa 152,IgG(+) IgM(-),22/8/2003,Feminino,SIM,1/11/2020,"Febre, anosmia, dor no corpo, cansaço, dispneia",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/6/2021
+Pessoa 153,IgG(+) IgM(-),19/6/1998,Feminino,NÃO,,,,"SIM, 3 doses",Astrazenica e Pfizer,1/7/2022
+Pessoa 154,IgG(+) IgM(-),9/6/1998,Feminino,NÃO,,,,"SIM, 3 doses",Astrazenica e Coronavac,1/8/2022
+Pessoa 155,IgG(+) IgM(-),7/3/2001,Feminino,NÃO,,,,"SIM, 3 doses",Astrazenica e Pfizer,1/7/2022
+Pessoa 156,IgG(+) IgM(-),26/3/1999,Feminino,NÃO,,,,"SIM, 3 doses",Pfizer e Coronavac,1/5/2022
+Pessoa 157,IgG(+) IgM(-),2/2/2002,Feminino,SIM,1/6/2020,"Febre, tosse, dor no corpo, cansaço e dor no peito",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Astrazenica e Coronavac,1/6/2021
+Pessoa 158,IgG(+) IgM(-),2/10/2001,Masculino,SIM,1/3/2022,Assintomático,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Astrazenica,1/8/2021
+Pessoa 159,IgG(+) IgM(-),7/7/2023,Feminino,NÃO,,,,"SIM, 4 doses",Janssen,1/4/2022
+Pessoa 160,IgG(+) IgM(-),30/7/1997,Masculino,SIM,1/1/2022,Febre e dor no corpo,RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/11/2022
+Pessoa 161,IgG(+) IgM(-),27/1/2003,Feminino,NÃO,,,,"SIM, 3 doses",Asrrazenica e Coronavac,1/9/2022
+Pessoa 162,IgG(+) IgM(-),21/2/2001,Feminino,SIM,1/2/2022,"Tosse, Ageusia, Anosmia, Vômito, Cansaço",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses",Astrazenica e Pfizer,1/8/2022
+Pessoa 163,IgG(+) IgM(-),6/5/2002,Feminino,SIM,14/7/2021,"Ageusia, Anosmia ",RT-PCR (TESTE DO SWAB) / TESTE RÁPIDO PARA PESQUISA DE AG (SWAB),"SIM, 2 doses",Coronavac,1/7/2021
+Pessoa 164,IgG(+) IgM(-),23/11/2002,Feminino,SIM,1/11/2022,"Febre, Tosse, Calafrios, Dor no corpo, Dispneia ",RT-PCR (TESTE DO SWAB) ,"SIM, 2 doses",Pfizer,1/5/2021
+Pessoa 165,IgG(+) IgM(-),21/4/2001,Feminino,NÃO,,,,"SIM, 2 doses",Coronavac,1/12/2022
+Pessoa 166,IgG(+) IgM(-),12/2/2001,Feminino,SIM,1/5/2021,"Cansaço excessivo, dispneia, lacrimejamento, congestão nasal",RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Astrazeneca e Coronavac,1/9/2022
+Pessoa 167,IgG(+) IgM(-),28/2/2002,Feminino,NÃO,,,,"SIM, 4 doses","Astrazeneca, Coronavac, Pzifer e Janssen",1/11/2022
+Pessoa 168,IgG(+) IgM(-),20/3/2004,Masculino,SIM,1/2/2022,Assintomático,RT-PCR (TESTE DO SWAB),"SIM, 3 doses",Pfizer,1/9/2022
+Pessoa 169,IgG(+) IgM(-),7/2/2003,Feminino,NÃO,,,,"SIM, 2 doses",Coronavac,1/5/2022
+Pessoa 170,IgG(+) IgM(-),18/8/1998,Feminino,SIM,1/3/2020,"Febre, anosmia, calafrios, dor de garganta, dor no corpo, cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 1 dose",Pfizer,1/11/2022
+Pessoa 171,IgG(+) IgM(-),18/11/1994,Feminino,SIM,1/4/2021,"Febre, dor de garganta ",RT-PCR (TESTE DO SWAB) / TESTE RÁPIDO PARA PESQUISA DE AG (SWAB),"SIM, 2 doses",Pfizer,14/7/2021
+Pessoa 172,IgG(+) IgM(-),7/8/1995,Masculino,NÃO,,,,"SIM, 3 doses",Pfizer,1/4/2022
+Pessoa 173,IgG(+) IgM(-),26/3/1998,Feminino,NÃO,,,,"SIM, 4 doses",Astrazeneca e Pfizer,1/3/2023
+Pessoa 174,IgG(+) IgM(-),8/10/1999,Masculino,NÃO,,,,"SIM, 3 doses",Pfizer,1/5/2022
+Pessoa 175,IgG(+) IgM(-),9/11/1998,Feminino,NÃO,,,,"SIM, 4 doses","Astrazeneca, Coronavac, Pzifer e Janssen",1/6/2022
+Pessoa 176,IgG(+) IgM(-),7/1/2003,Feminino,NÃO,,,,"SIM, 3 doses",Pfizer,1/4/2022
+Pessoa 177,IgG(+) IgM(-),30/12/2001,Feminino,SIM,21/1/2023,"Febre,calafrio,dor de garganta, dor no corpo,cansaço excessivo,",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Coronavac,1/4/2021
+Pessoa 178,IgG(+) IgM(-),22/4/2002,Feminino,NÃO,,,,"SIM, 3 doses",Pfizer,1/12/2022
+Pessoa 179,IgG(+) IgM(-),3/7/2002,Feminino,sim,21/1/2023,Assintomatico,RT-PCR (TESTE DO SWAB) / TESTE RÁPIDO PARA PESQUISA DE AG (SWAB),"SIM, 2 doses",Pfizer,1/8/2022
+Pessoa 180,IgG(+) IgM(-),26/8/2003,Feminino,NÃO,,,,"SIM, 3 doses","Astrazeneca,Janssen",1/5/2022
+Pessoa 181,IgG(+) IgM(-),5/1/2003,Feminino,sim,21/1/2023,"Tosse,dor no corpo,cansaço excessivo",RT-PCR (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/4/2021
+Pessoa 182,IgG(+) IgM(-),19/3/2003,Feminino,NÃO,,,,"SIM, 2 doses","Pfizer, Coronavac",1/6/2021
+Pessoa 183,IgG(+) IgM(-),29/12/2001,Masculino,SIM,1/4/2021,"Febre,tosse,cansaço excessivo",RT-PCR (TESTE DO SWAB) / TESTE RÁPIDO PARA PESQUISA DE AG (SWAB),"SIM, 2 doses",Coronavac,1/8/2021
+Pessoa 184,IgG(+) IgM(-),28/8/2002,Feminino,NÃO,,,,"SIM, 2 doses",Pfizer,1/7/2021
+Pessoa 185,IgG(+) IgM(-),23/3/2001,Masculino,NÃO,,,,"SIM, 2 doses",Coronavac,1/12/2021
+Pessoa 186,IgG(+) IgM(-),11/5/2004,Masculino,SIM,1/5/2021,Tosse,TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 3 doses","Coronavac,Pfizer",1/7/2022
+Pessoa 187,IgG(+) IgM(-),20/11/2001,Masculino,SIM,22/12/2023,"Febre,cansaço,dor de garganta,calafrio",TESTE RAPIDO PARA PESQUISA DE AG (TESTE DO SWAB),"SIM, 2 doses",Pfizer,1/6/2022
+Pessoa 188,IgG(+) IgM(-),17/1/2000,Feminino,NÃO,,,,"SIM, 4 doses","Pfizer, Astrazeneca",1/3/2023
+Pessoa 189,IgG(+) IgM(-),14/2/2003,Feminino,NÃO ,,,,"SIM, 3 doses",Astrazeneca e Pfizer,1/11/2022
+Pessoa 190,IgG(+) IgM(-),13/031997,Feminino,SIM,20/12/2023,"Tosse,anosmia, do de garganta, casaço,dispneia",RT-PCR (TESTE DO SWAB) / TESTE RÁPIDO PARA PESQUISA DE AG (SWAB),"SIM, 4 doses","Astrazeneca, Coronavac, Pzifer e Janssen",1/7/2023
+Pessoa 191,IgG(+) IgM(-),19/6/2002,Feminino,SIM,13/7/2022,"Febre,tosse,calafrio",RT-PCR (TESTE DO SWAB) / TESTE RÁPIDO PARA PESQUISA DE AG (SWAB),"SIM, 2 doses","Astrzeneca,Pfizer",1/2/2021
+Pessoa 192,IgG(+) IgM(-),18/062003,Masculino,NÃO,,,,"SIM, 3 doses","Pfizer,Coronavac",1/4/2023
+Pessoa 193,IgG(+) IgM(-),18/10/2002,Masculino,NÃO,,,,"SIM, 3 doses","Astrazeneca,Pfizer",1/6/2022
+Pessoa 194,IgG(+) IgM(-),7/3/2002,Feminino,NÃO,,,,"SIM, 1 dose",Astrazeneca,31/7/2021
